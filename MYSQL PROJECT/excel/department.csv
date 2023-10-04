@@ -1,0 +1,11 @@
+Dept_ID,Dept_Name,Tech_ID,StudID
+D-01,Architecture,TArch-01,Arch-02
+D-02,CSE,TCSE-04,CSE-01
+D-02,CSE,TCSE-04,CSE-06
+D-02,Data Analytics,TDA-05,CSE-03
+D-02,Data Analytics,TDA-05,CSE-05
+D-03,Civil,TCiv-03,CIV-07
+D-04,Marketing,TMark-06,Mark-08
+D-04,Marketing,TMark-06,Mark-09
+D-05,Business Admin,TBAd-02,BBA-04
+D-05,Business Admin,TBAd-02,BBA-10
